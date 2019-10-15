@@ -1,0 +1,32 @@
+MAKING A SANDWICH
+
+1. Get a plate
+  1.1 Go to cupboard
+  1.2 Take out plate
+  1.3 Place on counter
+2. Gather ingredients
+  2.1 Gather bread
+    2.1.1 Go to cabinet
+    2.1.2 Take out bread
+    2.1.3 Open bread bag
+    2.1.4 Take out two slices of bread
+    2.1.5 Place on plate
+    2.1.6 Reseal bread bag
+    2.1.7 Place bread back in cabinet
+    2.1.8 Close cabinet
+  2.2 Gather peanut butter
+    2.2.1 Go to cabinet
+    2.2.2 Take out peanut butter
+    2.2.3 Open peanut butter
+    2.2.4 Get knife
+      2.2.4.1 Open drawer
+      2.2.4.2 Take out knife
+      2.2.4.3 Close drawer
+    2.2.5 Put knife in jar
+      2.2.5.1 Swirl knife around to collect peanut butter
+    2.2.6 Pick up piece of bread
+    2.2.7 Apply peanut butter
+    2.2.8 Put bread slice with peanut butter back on plate
+3 Create sandwich
+   3.1 Pick up both slices of bread
+   3.2 Combine
