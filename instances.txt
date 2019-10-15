@@ -1,0 +1,25 @@
+CLASS:
+Boat
+
+ATTRIBUTES:
+color (string)
+motor (string)
+oilGauge (float)
+hullIntegrity (float)
+sail (boolean)
+
+
+METHODS:
+raise_Sail (raises boat's sail)
+lower_Sail (lowers boat's sail)
+change_color (changes boat's color )
+check_hullIntegrity (checks hull's current integrity)
+check_oilGauge (checks boat's oil gauge)
+turnoff_motor (turns motor off)
+turnon_motor (turns motor on)
+
+
+INSTANCES:
+color (string): "White"
+motor (string): "SeaPro"
+change_color: color = "Red"
