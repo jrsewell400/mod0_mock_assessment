@@ -3,26 +3,27 @@ Boat
 
 ATTRIBUTES:
 color (string)
-motor (string)
-oilGauge (float)
+motor (boolean)
+totalFuel (float)
+currentFuel (float)
 hullIntegrity (float)
 sail (boolean)
 
 
 METHODS:
-raise_Sail (raises boat's sail)
-lower_Sail (lowers boat's sail)
-change_color (changes boat's color )
-check_hullIntegrity (checks hull's current integrity)
-calculate_fuelRemain(checks boat's remaining fuel)
-turnoff_motor (turns motor off)
-turnon_motor (turns motor on)
+raise_sail (raises boat's sail)
+lower_sail (lowers boat's sail)
+change_color (changes boat's color)
+check_currentFuel (checks hull's current fuel status)
+verify_totalFuel (reads out total fuel capacity for the boat)
+motor_off (turns motor off)
+motor_on (turns motor on)
 
 
 INSTANCES:
 Instance: Sail Boat
 
-raise_Sail: "TRUE"
+raise_sail: sail = "TRUE" // sail will be either up or down (aka TRUE or FALSE))
 color: "White"
 motor: "SeaPro"
 change_color: color = "Red"
@@ -31,6 +32,7 @@ change_color: color = "Red"
 
 Instance: Speed Boat
 
-turnon_motor: motor = "ON"
-calculate_fuelRemain:  75 / 100 = .75
+motor_on: motor = "ON"
+check_currentFuel:  75 / 100 = .75
 change_color: color = "Blue"
+verify_totalFuel: '55'
